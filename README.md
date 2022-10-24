@@ -1,1 +1,1 @@
-# Covid-19-Datat-Exploration
+# Covid-19-Data-Exploration
